@@ -1,4 +1,4 @@
-# ReactNativeKidsReadingDiary :computer:
+# React Native Kids Reading Diary :computer:
 
 This kids' reading diary project has been created with React Native and Expo.
 
