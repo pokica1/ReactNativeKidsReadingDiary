@@ -12,14 +12,14 @@ Expo\
 
 ### To run this project on the local computer :stopwatch::
 
-Use npm start
-Select the web verion
+Use npm start/
+Select the web version/
 
 ### Tasks that can be performed with the app:
 
-:mag: Search for a book (This utilizes the Google Books API)
-:heavy_plus_sign: Add a new diary entry
-:wastebasket: Delete a diary item
-:pencil2: Edit a diary item
+:mag: Search for a book (This utilizes the Google Books API)/
+:heavy_plus_sign: Add a new diary entry/
+:wastebasket: Delete a diary item/
+:pencil2: Edit a diary item/
 
 
