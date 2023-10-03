@@ -10,7 +10,7 @@ HTML\
 CSS\
 Expo
 
-### To run this project on the local computer :stopwatch::
+### To run this project on the local computer :stopwatch:
 
 Use npm start\
 Select the web version
